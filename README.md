@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**ptallen63/ptallen63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there, I'm Paul 👋
 
 ## I'm a Engineer, Technologist, and Tinkerer
@@ -50,3 +33,7 @@ Here are some ideas to get you started:
 [website]: https://paulallen.dev
 [twitter]: https://twitter.com/ptallen63
 [linkedin]: https://linkedin.com/in/ptallen63
+
+<!--
+  Ideas and structure for this ReadMe came initially from https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+ -->
